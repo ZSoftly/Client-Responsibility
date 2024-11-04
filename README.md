@@ -14,7 +14,7 @@ Always use the group Slack channel with you, Godson and Ditah to schedule your i
 
 Zsoftly does not do take-home assignments or tests from interviews because those kinds of interviews hardly end with an offer.
 
-Just a quick reminder: always send us the job description link at least an hour before your interview. This helps us avoid losing the link in chats and ensures we’re prepared to support you properly.
+Just a quick reminder: always send us the job description link and a link to your resume at least an hour before your interview. This helps us avoid losing the link in chats and ensures we’re prepared to support you properly.
 
 Don't forget to share any important info from your past conversations with the interviewer or details from a previous interview.
 
