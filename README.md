@@ -2,7 +2,7 @@
 
 - Please make sure that Zsoftly is subscribed to your calendar so we can keep track of your interviews. Also, confirm that you always receive Google Meet invites to shadow other interviews.
 
-- You should apply for as many  jobs as you can every day on various platforms. The more interviews you get, the higher your chances of getting a job offer. So it would be best to put extra effort into the job application. You should only apply for roles like Cloud Engineer, DevOps Engineer, Built and Release Engineer, DevSecOps Engineer, Operations Engineer,  Infrastructure Engineer and Automation Engineer. Zsoftly will not take or shadow you for an interview with a job title different from those listed above.
+- You should apply for as many  jobs as you can every day on various platforms. The more interviews you get, the higher your chances of getting a job offer. So it would be best to put extra effort into the job application. You should only apply for roles like Cloud Engineer, DevOps Engineer, Built and Release Engineer, DevSecOps Engineer, Operations Engineer,  Infrastructure Engineer, Site Reliability Engineer and Automation Engineer. Zsoftly will not take or shadow you for an interview with a job title different from those listed above.
 
 - When you get an interview request, you should ask the interviewer about the number of rounds, what each round covers, and whether the role is remote, hybrid, or onsite. Send the answers to these questions to the Slack channel with you, Godson, and Ditah. Your interview will not be scheduled without this information.
 
